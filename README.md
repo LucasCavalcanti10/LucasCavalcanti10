@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas 👋
 - 🔭 Atualmente estou em busca da minha primeira oportunidade na área de tecnologia.
-- 🌱 Estou estudando desenvolvimento de back-end.
+- 🌱 Estou cursando Tecnólogo em  Desenvolvimento de Back-End na Anhanguera.
 
 ##
 
